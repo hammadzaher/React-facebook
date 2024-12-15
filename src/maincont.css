@@ -1,0 +1,140 @@
+.maincontone {
+    background-color: #fff;
+    width: 550px;
+    padding: 20px;
+    border-radius: 20px;    
+}
+.maincontone1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+    border-bottom: 1px solid gray;
+    padding-bottom: 20px;
+    padding: 15px;
+}
+.maincontone1 img {
+    width: 50px;
+    border-radius:50% ;
+}
+.maincontone1 input {
+    width: 400px;
+    height: 10;
+    border-radius: 50px;
+    border: 1px solid gray;
+    background-color: whitesmoke;
+    padding: 10;
+    outline: none;
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+
+.mainCont2{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}.mainCont2 div{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+
+/* /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/ */
+.mainThree {
+    width: 600px;
+    background-color: #fff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 15px;
+    border-radius: 15px
+}
+.mainThree  img {
+    cursor: pointer
+}
+
+.mainThree1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 0px 8px
+}
+.mainThree1Child1 img{
+    width: 80px;
+    border-radius: 50%;
+}.mainThree1Child1{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}.mainThree1Child1 #hamm h3{
+    margin: 0;
+}.mainThree1Child1 #hamm p {
+    margin: 0;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.mainThree1Child2{
+    display: flex;
+    gap: 12px;
+}.mainThree1Child2 img{
+    width: 30px;
+}
+
+
+.mainThree2 img {
+    width: 100%;
+}
+
+
+.mainThree3 {
+    display: flex;
+    justify-content: space-between;
+    align-items:center ;
+    border-bottom: 1px solid gray;
+    padding:0px 10px
+}
+.mainThree3Child1 {
+   display: flex;
+   gap: 10px;
+}
+.mainThree3Child2{
+    display: flex;
+    gap: 10px;
+}
+.mainThree3Child2 img{
+    width: 30px;
+}
+
+
+
+
+.mainThree4 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-left:20px;
+
+}
+.mainThree4child1 , .mainThree4child2 , .mainThree4child3 , .mainThree4child4 {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+.mainThree4child1 img {
+    width: 30px;
+}
+.mainThree4child2 img {
+    width: 30px;
+}
+.mainThree4child3 img {
+    width: 30px;
+}
+.mainThree4child4 img {
+    width: 30px;
+}
